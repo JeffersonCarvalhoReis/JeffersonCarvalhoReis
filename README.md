@@ -1,7 +1,7 @@
 # 👋 Olá, sou Jefferson Carvalho!
 
-🧑‍💻 **Full-Stack Developer (Laravel + Vue.js)** — atualmente atuando como desenvolvedor fullstack com foco em **Laravel** no backend e **Vue.js** no frontend.  
-📚 Também estou estudando e criando projetos com **Node.js / NestJS** no backend e **React** no frontend.
+🧑‍💻 **Full-Stack Developer** — atualmente atuando como desenvolvedor fullstack com experiência em **Laravel** e **Node.js / NestJS** no backend e  **React** e **Vue.js** no frontend.  
+📚 Estou sempre estudando novas tecnologias e me aprofundando nos meus conhecimentos.
 
 ---
 
