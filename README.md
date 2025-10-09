@@ -46,7 +46,7 @@
 ## 🤝 Vamos nos conectar?
 
 - ✉️ **Email:** `jeffersoncarvalhodosreis.com`
-- 🔗 **LinkedIn:** `![https://www.linkedin.com/in/jeffersoncarvalhoreis/]([https://www.linkedin.com/in/jeffersoncarvalhoreis/)`   
+- 🔗 **LinkedIn:** ![https://www.linkedin.com/in/jeffersoncarvalhoreis/]([https://www.linkedin.com/in/jeffersoncarvalhoreis/)
 - 💬 Aberto a feedbacks, parcerias e oportunidades — prefiro vagas remotas. 
 
 ---
