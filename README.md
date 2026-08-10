@@ -77,6 +77,6 @@ Alguns tipos de sistemas que já desenvolvi/mantive, geralmente cuidando de mode
 
 *"Cada linha de código é um passo para transformar ideias em realidade."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=footer" />
 
 </div>
