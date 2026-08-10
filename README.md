@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Olá, sou Jefferson Carvalho!
+#  Olá, sou Jefferson Carvalho!
 
-### 🧑‍💻 Full-Stack Developer | Laravel • NestJS • Vue.js • React
+###  Full-Stack Developer | Laravel • NestJS • Vue.js • React
 
 Desenvolvedor fullstack com experiência no desenvolvimento de **sistemas web para saúde** (regulação médica, monitoramento de pacientes crônicos, farmácia hospitalar, viagens/acompanhantes) e outras aplicações corporativas, cuidando de ponta a ponta: modelagem de dados, APIs REST, autenticação/permissões e interfaces em produção.
 
@@ -56,11 +56,11 @@ Desenvolvedor fullstack com experiência no desenvolvimento de **sistemas web pa
 
 Alguns tipos de sistemas que já desenvolvi/mantive, geralmente cuidando de modelagem de dados, API e integração com o frontend:
 
-- 🏥 **Sistema de regulação/solicitações médicas** — fluxo de solicitações, aprovações e regulação de atendimentos.
-- 💊 **Farmácia hospitalar / controle de estoque** — prescrições, itens de prescrição, dispensações, devoluções, entradas de estoque, movimentações, produtos e lotes.
-- 🩹 **Sistema de acompanhamento clínico de lesões/feridas** — pacientes, profissionais, anamneses, avaliações de lesão e alertas, com autenticação JWT (access + refresh token).
-- 🦟 **Aplicação para exames de triatomíneos** (vigilância epidemiológica/Chagas).
-- 📄 **Geração de relatórios em PDF** a partir de dados do sistema.
+-  **Sistema de regulação/solicitações médicas** — fluxo de solicitações, aprovações e regulação de atendimentos.
+-  **Farmácia hospitalar / controle de estoque** — prescrições, itens de prescrição, dispensações, devoluções, entradas de estoque, movimentações, produtos e lotes.
+-  **Sistema de acompanhamento clínico de lesões/feridas** — pacientes, profissionais, anamneses, avaliações de lesão e alertas, com autenticação JWT (access + refresh token).
+-  **Aplicação para exames de triatomíneos** (vigilância epidemiológica/Chagas).
+-  **Geração de relatórios em PDF** a partir de dados do sistema.
 
 **Tecnologias e frentes que já trabalhei no dia a dia:**
 
@@ -70,9 +70,9 @@ Alguns tipos de sistemas que já desenvolvi/mantive, geralmente cuidando de mode
 
 ## 🚀 Metas de curto e médio prazo
 
-- 🔧 Consolidar conhecimentos em **Node.js + NestJS** para APIs escaláveis e bem documentadas.
-- ⚛️ Aprofundar em **React**, com foco em componentização e gerenciamento de estado.
-- 🧩 Produzir projetos fullstack completos, com autenticação, uploads, WebSockets e testes automatizados.
+- Consolidar conhecimentos em **Node.js + NestJS** para APIs escaláveis e bem documentadas.
+- Aprofundar em **React**, com foco em componentização e gerenciamento de estado.
+- Produzir projetos fullstack completos, com autenticação, uploads, WebSockets e testes automatizados.
 
 ---
 
@@ -83,7 +83,5 @@ Alguns tipos de sistemas que já desenvolvi/mantive, geralmente cuidando de mode
 - 💬 Aberto a feedbacks, parcerias e oportunidades — prefiro vagas remotas.
 
 <div align="center">
-
-📌 *"Cada linha de código é um passo para transformar ideias em realidade."*
 
 </div>
