@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=180&section=header&text=Jefferson%20Carvalho&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;NestJS+%2B+Laravel+%2B+Vue.js+%2B+React;Sistemas+web+para+sa%C3%BAde+e+gest%C3%A3o;Sempre+estudando+algo+novo" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;NestJS+%2B+Laravel+%2B+Vue.js+%2B+React;Sistemas+web" />
 </a>
 
 </div>
