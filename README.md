@@ -60,9 +60,8 @@ Alguns tipos de sistemas que já desenvolvi/mantive, geralmente cuidando de mode
 
 Depois, adicione aqui no README:
 
-```markdown
 <img src="https://raw.githubusercontent.com/JeffersonCarvalhoReis/JeffersonCarvalhoReis/output/github-contribution-grid-snake.svg" />
-```
+
 
 </details>
 
