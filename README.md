@@ -57,31 +57,6 @@ Alguns tipos de sistemas que já desenvolvi/mantive, geralmente cuidando de mode
 <details>
 <summary>Snake das contribuições (opcional)</summary>
 
-Para exibir a animação do "snake" comendo seu gráfico de contribuições, crie um repositório com o mesmo nome do seu usuário (`JeffersonCarvalhoReis/JeffersonCarvalhoReis`) e adicione o workflow abaixo em `.github/workflows/snake.yml`:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-permissions:
-  contents: write
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
 
 Depois, adicione aqui no README:
 
