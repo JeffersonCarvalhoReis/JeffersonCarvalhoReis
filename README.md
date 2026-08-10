@@ -47,14 +47,13 @@ Alguns tipos de sistemas que já desenvolvi/mantive, geralmente cuidando de mode
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JeffersonCarvalhoReis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonCarvalhoReis&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=JeffersonCarvalhoReis&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JeffersonCarvalhoReis&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img src="https://streak-stats.demolab.com?user=JeffersonCarvalhoReis&theme=tokyonight&hide_border=true" />
 
 </div>
-
-Depois, adicione aqui no README:
 
 <img src="https://raw.githubusercontent.com/JeffersonCarvalhoReis/JeffersonCarvalhoReis/output/github-contribution-grid-snake.svg" />
 
