@@ -71,11 +71,10 @@ Alguns tipos de sistemas que já desenvolvi/mantive, geralmente cuidando de mode
 
 - **Email:** [jeffersoncarvalhodosreis@gmail.com](mailto:jeffersoncarvalhodosreis@gmail.com)
 - **LinkedIn:** [linkedin.com/in/jeffersoncarvalhoreis](https://www.linkedin.com/in/jeffersoncarvalhoreis/)
-- Aberto a feedbacks, parcerias e oportunidades — prefiro vagas remotas.
+- Aberto a feedbacks, parcerias e oportunidades.
 
 <div align="center">
 
-*"Cada linha de código é um passo para transformar ideias em realidade."*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=footer" />
 
