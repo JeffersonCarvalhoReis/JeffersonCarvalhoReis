@@ -54,16 +54,9 @@ Alguns tipos de sistemas que já desenvolvi/mantive, geralmente cuidando de mode
 
 </div>
 
-<details>
-<summary>Snake das contribuições (opcional)</summary>
-
-
 Depois, adicione aqui no README:
 
 <img src="https://raw.githubusercontent.com/JeffersonCarvalhoReis/JeffersonCarvalhoReis/output/github-contribution-grid-snake.svg" />
-
-
-</details>
 
 ---
 
